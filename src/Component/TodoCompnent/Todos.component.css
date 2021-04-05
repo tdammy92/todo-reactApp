@@ -1,0 +1,22 @@
+#todoLi {
+    color: white;
+    display: flex;
+    height: 15px;
+    width: 200px;
+    padding: 4px;
+    border-bottom: 2px solid white;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+#todoLi p {
+    margin: 0;
+    padding: 0;
+    width: 80%;
+}
+
+#todoLi i {
+    margin-left: 15px;
+    cursor: pointer;
+    width: 10%;
+}

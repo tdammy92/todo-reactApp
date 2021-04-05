@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Drink Coffe",
+      "completed": true
+    },
+    {
+      "text": "am eating fish",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "off to the cinema",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "Meeting by 3pm",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}

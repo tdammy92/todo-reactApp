@@ -1,0 +1,25 @@
+#todoInput {
+    border-radius: 10px;
+    border: 2px solid white;
+    background: transparent;
+    height: 15px;
+    width: 200px;
+    padding: 5px;
+    color: white;
+}
+
+#todoInput::placeholder {
+    color: white;
+    text-align: center;
+}
+
+#addBtn {
+    background: none;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#addBtn i {
+    font-size: 22px;
+}
